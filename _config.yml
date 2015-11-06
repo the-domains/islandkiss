@@ -1,7 +1,7 @@
 name: IslandKiss
 favicon: null
 layout_spectrum: 0.96964
-typography_spectrum: 0.18968804460018873
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.18166353181004524
+  brandColors:
+    - '#ffffff'
+    - '#2b2a28'
+    - '#175890'
+    - '#787677'
+    - '#b2b4b3'
+  brandStrength: 0.1875
   lightness: 0.9629624993540347
   saturation: 0.5496079141739756
   rhythmicContrast: 0.6792796300724149
