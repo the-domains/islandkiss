@@ -1,0 +1,23 @@
+name: IslandKiss
+favicon: null
+layout_spectrum: 0.688737656455487
+typography_spectrum: 0.18968804460018873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.18166353181004524
+  lightness: 0.9629624993540347
+  saturation: 0.5496079141739756
+  rhythmicContrast: 0.6792796300724149
+purpose: []
