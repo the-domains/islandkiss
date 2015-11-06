@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-06T20:34:04.509Z'
-dateModified: '2015-10-18T16:38:08.005Z'
-title: Getting Started on The Grid
+datePublished: '2015-11-06T20:39:03.919Z'
+dateModified: '2015-11-06T20:37:19.419Z'
+title: GettingStarted
 author: []
+sourcePath: _posts/2015-11-06-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-06-getting-started-on-the-grid.md
-published: true
 url: getting-started-on-the-grid/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# GettingStarted
 
 Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
 
