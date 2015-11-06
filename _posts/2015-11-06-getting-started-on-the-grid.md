@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-06T20:39:03.919Z'
-dateModified: '2015-11-06T20:37:19.419Z'
-title: GettingStarted
+datePublished: '2015-11-06T21:22:08.579Z'
+dateModified: '2015-11-06T21:20:05.160Z'
+title: Island Kiss
 author: []
 sourcePath: _posts/2015-11-06-getting-started-on-the-grid.md
 published: true
@@ -23,9 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# GettingStarted
+# Island Kiss
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+Testing the site .. . . . 
 
 ## Creating a Site
 
